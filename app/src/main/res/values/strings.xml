@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="search">Search</string>
+    <string name="alien_covenant">Alien: Covenant</string>
+    <string name="may_11_2017">May 11, 2017</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">View all</string>
+    <string name="top_rated">Top Rated</string>
+</resources>
